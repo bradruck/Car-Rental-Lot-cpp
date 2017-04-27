@@ -1,0 +1,60 @@
+2
+Ford F-150 4 1987654098
+2
+Chevy Blazer 4 5678901345
+1
+Acura Integra 2 6543211886
+1
+BMW 330i 2 3456789346
+1
+Audi A6 4 6745230777
+1
+Toyota Highlander 4 4378061757
+1
+Volkswagon Passat 4 5348712378
+2
+Jeep Cherokee 4 9081345009
+1
+Nissan Altima 2 6123409211
+2
+Ram 3500 4 2468097356
+2
+Toyota Tacoma 2 3175903498
+2
+GMC Sierra 4 5346839287
+1
+Jaguar XKE 2 2930485555
+2
+Nissan Titan 2 2738495119
+2
+Chevrolet Silverado 4 3749031884
+2
+GMC Canyon 2 4563210038
+1
+Ford Fiesta 4 9012345012
+1
+Honda Civic 2 2340985338
+1
+Subaru Legacy 4 6549807000
+1
+Hyundai Genesis 4 7861294683
+1
+Mazda 3 2 4658921298
+1
+Toyota Camry 4 1029384666
+1
+Mitsubishi Mirage 2 7465932403
+1
+Dodge Dart 2 9012365928
+1
+Kia Optima 4 8430091567
+1
+Chevrolet Impala 2 4326781023
+1
+Ford Fusion 4 4523999877
+1
+Nissan Versa 2 3356112238
+1
+Scion xD 2 2355889444
+1
+Chevrolet Malibu 4 5552896177
